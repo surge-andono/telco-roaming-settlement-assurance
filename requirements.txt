@@ -1,0 +1,17 @@
+# Data Manipulation & Math
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization & Interactive Dashboards
+plotly>=5.15.0
+dash>=2.11.0
+
+# Financial Tools & Utilities
+# Digunakan jika nantinya  ingin integrasi API kurs mata uang asli
+requests>=2.31.0
+
+# Image Export (untuk menyimpan dashboard ke PNG/PDF)
+kaleido==0.2.1
+
+# Environment management
+python-dotenv>=1.0.0
