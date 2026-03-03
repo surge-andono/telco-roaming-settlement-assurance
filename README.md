@@ -21,4 +21,4 @@ This project simulates the reconciliation of inbound roaming traffic—where for
 ## 🛠️ Usage
 1. Install requirements: `pip install -r requirements.txt`
 2. Run the pipeline: `python src/main.py`
-3. View the results: `data/output/roaming_dashboard.html` or screenshot : `data/output/roaming_report.pdf`
+3. View the results: `data/output/roaming_dashboard.html` or screenshot : `data/output/Roaming_Assurance_Dashboard.pdf`
